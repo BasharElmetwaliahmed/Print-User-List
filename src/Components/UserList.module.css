@@ -1,0 +1,8 @@
+.userlist li{
+    padding-bottom: 5px;
+    border-bottom: 1px solid darkblue;
+    color: darkblue;
+    margin-bottom: 40px;
+    width: 80%;
+
+}

@@ -1,0 +1,22 @@
+.form div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+    margin: auto;
+
+
+}
+.form input{
+    border: 1px solid darkblue;
+    margin-bottom: 20px;
+    padding: 5px 0px;
+}
+.form  label{
+    color:darkblue;
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
